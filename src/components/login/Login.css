@@ -1,0 +1,38 @@
+/* Login.css */
+
+.login-container {
+    width: 100%;
+    max-width: 500px;
+    margin: auto;
+    background-color: #fff;
+    margin-bottom: 10px;
+    padding-left: 10px;
+  }
+  
+  .login-form {
+    text-align: center;
+  }
+  
+  .login-title {
+    font-size: 2rem;
+    color: #288ba8;
+    text-align: center;
+    margin-bottom: 15px;
+  }
+  
+  .error-message {
+    color: red;
+    margin-bottom: 15px;
+  }
+  
+.register-link {
+    display: block;
+    margin-top: 15px;
+}
+  
+.login-button {
+    color: #fff;
+    background-color: #0080ff;
+    margin-top: 15px;
+}
+  
